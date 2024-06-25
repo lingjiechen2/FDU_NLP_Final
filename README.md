@@ -1,7 +1,5 @@
 This project's code has been modified on basis of SKU, the original model's repository is: https://github.com/franciscoliu/SKU.
 
-# Selective Knowledge negation Unlearning (SKU)
-
 ## Environment Setup
 Create an environment from the yml file using:
 
